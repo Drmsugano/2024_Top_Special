@@ -1,3 +1,1 @@
-#2024_TOP_SPECIAL
-
-<h1>Hehe</h1>
+<h1>2024_TOP_SPECIAL</h1>
